@@ -49,11 +49,11 @@ My journey in cybersecurity has led me to develop a passion for blue team work, 
 
 ## Certificates
 <img src="https://img.shields.io/badge/-Google%20Cyber%20Security-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk%20Certified-FF9900?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Certified">
-<img src="https://img.shields.io/badge/-Qualys%20Certified-00B3E6?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys Certified">
+<img src="https://img.shields.io/badge/-Splunk%20Certified-FF9900?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk">
+<img src="https://img.shields.io/badge/-Qualys%20Certified-00B3E6?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys">
 <img src="https://img.shields.io/badge/-MITRE%20ATT&CK-0072C6?&style=for-the-badge&logo=MITRE&logoColor=white" alt="MITRE ATT&CK">
-<img src="https://img.shields.io/badge/-LetsDefend%20Certified-4CAF50?&style=for-the-badge&logo=LetsDefend&logoColor=white" alt="LetsDefend Certified">
-<img src="https://img.shields.io/badge/-OSINT%20Certified-0072B5?&style=for-the-badge&logo=OSINT&logoColor=white" alt="OSINT Certified">
+<img src="https://img.shields.io/badge/-LetsDefend%20Certified-4CAF50?&style=for-the-badge&logo=LetsDefend&logoColor=white" alt="LetsDefend">
+<img src="https://img.shields.io/badge/-OSINT%20Certified-0072B5?&style=for-the-badge&logo=OSINT&logoColor=white" alt="OSINT">
 
 
 
