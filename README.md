@@ -61,3 +61,4 @@ My journey in cybersecurity has led me to develop a passion for blue team work, 
 ## Projects
 - Malware Detection Lab on VM Windows updgraded to FLARE VM
 - Configuring Windows Defender and Firewall on Windows 10  
+
