@@ -45,8 +45,13 @@ My journey in cybersecurity has led me to develop a passion for blue team work, 
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cyber%20Security-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
+
+## Certificates
+<img src="https://img.shields.io/badge/-Google%20Cyber%20Security-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk%20Certified-FF9900?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Certified">
+<img src="https://img.shields.io/badge/-Qualys%20Certified-00B3E6?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys Certified">
+
 
 ## Projects
 - Malware Detection Lab on VM Windows updgraded to FLARE VM
