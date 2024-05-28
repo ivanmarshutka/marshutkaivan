@@ -15,7 +15,7 @@ My journey in cybersecurity has led me to develop a passion for blue team work, 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Malware Analysis Lab</a>|
-| Ednpoint Detection and Firewall config        | <a href="https://google.com">Windows hardening </a>|
+| Ednpoint Detection and Firewall config        | <a href="https://google.com">Windows Hardening </a>|
  
  
 
